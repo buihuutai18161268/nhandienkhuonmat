@@ -1,0 +1,17 @@
+Dataset/FaceData/processed\tai\1.png 399 217 488 320
+Dataset/FaceData/processed\tai\2.png 220 194 513 524
+Dataset/FaceData/processed\tai\3.png 412 296 618 538
+Dataset/FaceData/processed\tai\4.png 347 221 1059 929
+Dataset/FaceData/processed\tai\5.png 204 125 396 350
+Dataset/FaceData/processed\tai\6.png 257 112 1207 1418
+Dataset/FaceData/processed\tai\7.png 425 415 981 1107
+Dataset/FaceData/processed\khanh\1.png 770 1013 929 1214
+Dataset/FaceData/processed\khanh\10.png 1162 1531 1232 1615
+Dataset/FaceData/processed\khanh\2.png 706 658 1107 1179
+Dataset/FaceData/processed\khanh\3.png 827 652 1038 927
+Dataset/FaceData/processed\khanh\4.png 813 644 1013 915
+Dataset/FaceData/processed\khanh\5.png 964 603 1153 850
+Dataset/FaceData/processed\khanh\6.png 1639 1039 1804 1245
+Dataset/FaceData/processed\khanh\7.png 1057 800 1133 882
+Dataset/FaceData/processed\khanh\8.png 1374 1079 1555 1291
+Dataset/FaceData/processed\khanh\9.png 782 1138 917 1312
